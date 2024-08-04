@@ -1,5 +1,7 @@
 # Todo List - React + Vite
 
+> **Nota:** Este projeto foi desenvolvido com base em um tutorial do canal [Programação Web](https://www.youtube.com/watch?v=vcCKywPfQGs). Agradeço ao criador por fornecer um excelente guia que ajudou na construção deste projeto.
+
 Este projeto é uma aplicação de lista de tarefas (Todo List) desenvolvida com React e Vite. Ele oferece uma maneira simples e eficaz de gerenciar tarefas com funcionalidades para adicionar, marcar como concluído, deletar itens individuais e deletar todos os itens da lista.
 
 ## Funcionalidades
