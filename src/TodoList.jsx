@@ -46,7 +46,7 @@ function TodoList() {
 
     return (
         <div>
-            <h1>Todo List</h1>
+            <h1>Lista de Tarefas</h1>
             <form onSubmit={addItem}>
                 <input
                     ref={inputRef}  // Referência ao input para foco
